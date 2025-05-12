@@ -1,0 +1,12 @@
+URL:  https://codeforces.com/group/uMtJiIwg3J/contest/608880
+FROM:   2021 CCPC 桂林
+
+A:签到
+
+D:优先栈  permutation，只能调转逆序对，变为目标序列。
+
+E:图论  找权重最小环
+
+G:dp
+
+I:贪心
